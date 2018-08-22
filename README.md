@@ -1,4 +1,4 @@
-# Time Enhancer | 10.04.2018
+# Time Enhancer | v1.0.0.0 | 10.04.2018
 <p align="center">
   <img src="https://i.imgur.com/gRcTb6V.png"/>
   <h2 align="center"><a href="https://github.com/Crpsem/TimeEnhancer/releases">DOWNLOAD HERE</a></h2>
