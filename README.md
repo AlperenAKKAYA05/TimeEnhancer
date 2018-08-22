@@ -38,4 +38,4 @@ Time Enhancer's program preview:
 
 ## What to expect in the upcoming update?
 
-* bug fixes.
+* Bug fixes.
