@@ -18,7 +18,7 @@ English
 
 # General information
 
-Time Enhancer and Time Enhancer are two applications developed to play games on your Steam accounts. The two programs run differently - depending on whether you are idle, you may want to choose one of them. Both applications do not require you to have the game you want to increase, but the game must be in your own library.
+Time Enhancer and Time Enhancer Game is two applications developed to play on your Steam accounts. The two programs work differently - depending on whether they are idle, you may want to choose one of them. Both applications do not require the game you want to increase, but the game must be in your own library. TimeEnhancer.Game.exe is the second application and allows use in console mode.
 
 ## Time Enhancer
 
