@@ -37,4 +37,5 @@ Time Enhancer's program preview:
 * Contract language support
 * Switching between Games every 3 hours
 * Window Storage Mode added
+* Batch Erase Added
 and such...
