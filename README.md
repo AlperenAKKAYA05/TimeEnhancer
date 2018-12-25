@@ -1,6 +1,3 @@
-# Announcement
-1.5.0 coming soon!!!
-
 # Time Enhancer | v1.0.0.0 | 10.04.2018
 <p align="center">
   <img src="https://i.imgur.com/gRcTb6V.png"/>
@@ -39,6 +36,11 @@ Time Enhancer's program preview:
 ![Preview](https://i.imgur.com/ijpjeSX.png)
 ![Preview](https://i.imgur.com/fSkFL3G.png)
 
-## What to expect in the upcoming update?
+## What to expect in the upcoming update? / V1.5.0
 
 * Bug fixes.
+* Fixed multiple game run errors
+* Contract language support
+* Switching between Games every 3 hours
+* Window Storage Mode added
+and such...
