@@ -1,3 +1,6 @@
+# Announcement
+1.5.0 coming soon!!!
+
 # Time Enhancer | v1.0.0.0 | 10.04.2018
 <p align="center">
   <img src="https://i.imgur.com/gRcTb6V.png"/>
