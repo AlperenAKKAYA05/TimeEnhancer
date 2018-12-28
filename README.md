@@ -18,13 +18,7 @@ English
 
 # General information
 
-Time Enhancer and Time Enhancer are two applications developed to play games on your Steam accounts. The two programs run differently - depending on whether you are idle, you may want to choose one of them. Both applications do not require you to have the game you want to increase, but the game must be in your own library.
-
-
-## Time Enhancer
-
-This program acts as a standalone Steam client and will require you to enter your steam account details. The advantages of this applet are that you can keep multiple accounts idle in one place and that Steam does not need to be installed on the computer you are running, which means you can rent a VPS and keep working for weeks. For this reason, if you are looking for multiple accounts at the same time in accounts you do not use, this is ideal for you. However, if you use only one account, and you want to be online, play another game, or chat with your friends, this does not work very well because you can not log in to both locations at the same time. If you want this feature, scroll down and read about Time Enhancer. Time Enhancer has no option to trade cards. If you are looking for this feature, check out Time Enhancer.
-
+Time Enhancer and Time Enhancer Game is two applications developed to play on your Steam accounts. The two programs work differently - depending on whether they are idle, you may want to choose one of them. Both applications do not require the game you want to increase, but the game must be in your own library. TimeEnhancer.Game.exe is the second application and allows use in console mode.
 
 ## Time Enhancer
 
@@ -36,6 +30,12 @@ Time Enhancer's program preview:
 ![Preview](https://i.imgur.com/ijpjeSX.png)
 ![Preview](https://i.imgur.com/fSkFL3G.png)
 
-## What to expect in the upcoming update?
+## What to expect in the upcoming update? / V1.5.0
 
 * Bug fixes.
+* Fixed multiple game run errors
+* Contract language support
+* Switching between Games every 3 hours
+* Window Storage Mode added
+* Batch Erase Added
+and such...
