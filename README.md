@@ -1,4 +1,4 @@
-# Time Enhancer | v1.0.0.0 | 10.04.2018
+# Time Enhancer | v1.5.0 | 29.12.2018
 <p align="center">
   <img src="https://i.imgur.com/gRcTb6V.png"/>
   <h2 align="center"><a href="https://github.com/Crpsem/TimeEnhancer/releases">DOWNLOAD HERE</a></h2>
@@ -26,11 +26,14 @@ If you have an account that you want to upgrade, this program is the perfect pro
 
 Time Enhancer's program preview:
 
-![Preview](https://i.imgur.com/PTHQCro.png)
-![Preview](https://i.imgur.com/ijpjeSX.png)
-![Preview](https://i.imgur.com/fSkFL3G.png)
+![Preview](https://i.imgur.com/BXrC9hW.png)
+![Preview](https://i.imgur.com/KzhPSAy.png)
+![Preview](https://i.imgur.com/irwpM7a.png)
+![Preview](https://i.imgur.com/Up5NQbp.png)
+![Preview](https://i.imgur.com/RSpqwaT.png)
+![Preview](https://i.imgur.com/5oH3KDh.png)
 
-## What to expect in the upcoming update? / V1.5.0
+## Update | V1.5.0
 
 * Bug fixes.
 * Fixed multiple game run errors
