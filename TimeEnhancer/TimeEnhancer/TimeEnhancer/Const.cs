@@ -14,7 +14,7 @@ namespace TimeEnhancer
         public static string GAME_LIST_LOCAL = Path.Combine(Application.StartupPath, "GameList.xml");
         public static string GAME_PROCESS = Path.Combine(Application.StartupPath, "TimeEnhancer.Game.exe");
         public const string GITHUB_PROFILE_URL = "https://github.com/crpsem/";
-        public const string GITHUB_REPO_URL = "https://github.com/crpsem/MD5Controller/";
-        public static string REPO_RELEASE_URL = "https://github.com/crpsem/MD5Controller/releases/latest";
+        public const string GITHUB_REPO_URL = "https://github.com/crpsem/TimeEnhancer/";
+        public static string REPO_RELEASE_URL = "https://github.com/crpsem/TimeEnhancer/releases/latest";
     }
 }
